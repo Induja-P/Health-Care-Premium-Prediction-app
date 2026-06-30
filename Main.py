@@ -34,7 +34,6 @@ with col1:
         "Age",
         min_value=18,
         max_value=100,
-        value=18,
         step=1,
         key="age"
     )
